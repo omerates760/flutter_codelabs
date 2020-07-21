@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:text_button/views/first_app/sample_app.dart';
+import 'package:flutter_codelabs/views/first_app/sample_app.dart';
 
 void main() {
   runApp(MyApp());
