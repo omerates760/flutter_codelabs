@@ -9,9 +9,6 @@ class SampleApp extends StatelessWidget {
   Widget build(BuildContext context) {
    // final wordPair = WordPair.random();
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Startup Name Generator'),
-      ),
       body: Center(
         child: RandomWords(),
       ),
