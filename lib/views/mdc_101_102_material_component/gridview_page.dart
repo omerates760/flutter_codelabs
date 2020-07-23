@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'custom_card_view.dart';
-
 class GridviewPage extends StatelessWidget {
   const GridviewPage({Key key}) : super(key: key);
 
